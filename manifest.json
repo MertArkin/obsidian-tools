@@ -1,0 +1,12 @@
+{
+  "id": "obsidian-tools",
+  "name": "0Obsidian Tools",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "A set of utilities for Obsidian",
+  "author": "Mert Arkin",
+  "authorUrl": "https://github.com/mertarkin",
+  "isDesktopOnly": false,
+  "main": "main.js",
+  "fundingUrl": "https://buymeacoffee.com"
+}
